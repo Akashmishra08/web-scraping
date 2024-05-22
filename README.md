@@ -7,6 +7,7 @@ scraping, pandas for data manipulation, and matplotlib
 and seaborn for data visualization. Explored trends and
 insights in IPL data to understand team performance and
 player dynamics.
+
 ● Technologies Used: Python, BeautifulSoup, pandas,
 matplotlib, seaborn
 
