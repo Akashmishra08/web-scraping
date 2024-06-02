@@ -1,4 +1,4 @@
-# web-scraping
+# web-scraping-for-ipl_data
 ● Developed a web scraping project to collect and analyze
 data from IPL websites. Scraped data included match
 statistics, player performance metrics, team standings,
